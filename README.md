@@ -3,13 +3,13 @@
 
 <br/>
 
-**Collaberated effort by:  
+__Collaberated effort by:  
 
 Kaelobb Decker, Jesse Holwerda, Joseph Lentine, Corey Moura
 
 <br/>
 
-**Primmary contributing program author: 
+__Primmary contributing program author: 
 
 Jesse Holwerda  
 
