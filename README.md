@@ -2,7 +2,6 @@
 2018 IEEE / IAS Student Robotics Contest winning robot.  Competes in a game called Robo Sockey. 
 
 <br/>
-<br/>
 
 Primmary contributing program author: Jesse Holwerda  
 
