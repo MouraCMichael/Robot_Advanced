@@ -1,9 +1,17 @@
 # Robot 3
-2018 IEEE / IAS Student Robotics Contest winning robot.  Competes in a game called Robo Sockey. 
+2018 IEEE / IAS Student Robotics Contest winning robot.  Competes in a game called Robo Sockey.
 
 <br/>
 
-Primmary contributing program author: Jesse Holwerda  
+**Collaberated effort by:  
+
+Kaelobb Decker, Jesse Holwerda, Joseph Lentine, Corey Moura
+
+<br/>
+
+**Primmary contributing program author: 
+
+Jesse Holwerda  
 
 # Notes
 Robot competed in Grand Valley's EGR107 Class Robo Sockey game, winning first place.  It was later entered into the IEEE International Student Robotics Contest, winning a first place cash prize.
