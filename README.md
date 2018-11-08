@@ -9,7 +9,15 @@ Kaelobb Decker, Jesse Holwerda, Joseph Lentine, Corey Moura
 <br/>
 
 ### Primmary contributing program author: 
-Jesse Holwerda  
+Jesse Holwerda 
+
+<br/>
+
+### Team leader and fabricator: 
+Corey Moura 
+
+<br/>
+<br/>
 
 # Notes
 Robot competed in Grand Valley's EGR107 Class Robo Sockey game, winning first place.  It was later entered into the IEEE International Student Robotics Contest, winning a first place cash prize.
