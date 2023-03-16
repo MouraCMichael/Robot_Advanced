@@ -23,7 +23,6 @@ Programed and designed a robot to compete against other teams in robot sockey
 
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
-
 <br/>
 <br/>
 <br/>
