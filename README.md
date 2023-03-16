@@ -22,6 +22,15 @@ Corey Moura
 # Notes
 Robot competed in Grand Valley's EGR107 Class Robo Sockey game, winning first place.  It was later entered into the IEEE International Student Robotics Contest, winning a first place cash prize.
 
+Programed and designed a robot to compete against other teams in robot sockey
+•	Worked in a team of 4
+•	Benchmarked designs complying with competition specifications and constraints
+•	Fabricated robot from benchmarked ideas
+•	Co-developed Arduino software
+•	Debugged Arduino, H-boards, peripherals, and wiring
+•	Extensively tested design
+•	Oversaw all project operations
+
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
 
