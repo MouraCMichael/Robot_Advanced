@@ -3,23 +3,12 @@
 
 <br/>
 
-### Collaberated effort by: 
+## Contributors: 
 Kaelobb Decker, Jesse Holwerda, Joseph Lentine, Corey Moura
 
 <br/>
 
-### Primmary contributing program author: 
-Jesse Holwerda 
-
-<br/>
-
-### Team leader and fabricator: 
-Corey Moura 
-
-<br/>
-<br/>
-
-# Notes
+# Description
 Robot competed in Grand Valley's EGR107 Class Robo Sockey game, winning first place.  It was later entered into the IEEE International Student Robotics Contest, winning a first place cash prize.
 
 Programed and designed a robot to compete against other teams in robot sockey
@@ -30,6 +19,7 @@ Programed and designed a robot to compete against other teams in robot sockey
 •	Debugged Arduino, H-boards, peripherals, and wiring
 •	Extensively tested design
 •	Oversaw all project operations
+
 
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
