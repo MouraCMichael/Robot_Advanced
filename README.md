@@ -11,8 +11,6 @@ Kaelobb Decker, Jesse Holwerda, Joseph Lentine, Corey Moura
 ## Description
 First Place winner of the 2018 IEEE International Student Robotics Contest.  Origionally designed to competed in Grand Valley's EGR107 Class Robo Sockey game, where it also won first place.
 
-<br/>
-
 •	Worked in a team of 4 <br/>
 •	Benchmarked designs complying with competition specifications and constraints <br/>
 •	Fabricated robot from benchmarked ideas <br/>
