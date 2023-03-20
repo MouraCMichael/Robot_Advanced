@@ -1,5 +1,5 @@
 # Autonomous Robot - Advanced
-2018 IEEE / IAS Student Robotics Contest winning robot.  Competes in a game called Robo Sockey.
+First Place winner of the 2018 IEEE International Student Robotics Contest.  Origionally designed to competed in Grand Valley's EGR107 Class Robo Sockey game, where it also won first place.
 
 <br/>
 
@@ -9,13 +9,12 @@ Kaelobb Decker, Jesse Holwerda, Joseph Lentine, Corey Moura
 <br/>
 
 ## Description
-First Place winner of the 2018 IEEE International Student Robotics Contest.  Origionally designed to competed in Grand Valley's EGR107 Class Robo Sockey game, where it also won first place.
 
-•	Worked in a team of 4 <br/>
-•	Benchmarked designs complying with competition specifications and constraints <br/>
-•	Fabricated robot from benchmarked ideas <br/>
+•	Worked in a team of 4 engineering students<br/>
+•	Used the Stanford Design Process
+•	Designed complied with all competition specifications and constraints <br/>
 •	Co-developed Arduino software <br/>
-•	Debugged Arduino, H-boards, peripherals, and wiring <br/>
+•	Debugged software, Arduino Uno pinouts, H-boards, peripherals, and wiring <br/>
 •	Rigorously tested design <br/>
 •	Oversaw all project operations <br/>
 
