@@ -12,13 +12,13 @@ Kaelobb Decker, Jesse Holwerda, Joseph Lentine, Corey Moura
 Robot competed in Grand Valley's EGR107 Class Robo Sockey game, winning first place.  It was later entered into the IEEE International Student Robotics Contest, winning a first place cash prize.
 
 Programed and designed a robot to compete against other teams in robot sockey
-•	Worked in a team of 4
-•	Benchmarked designs complying with competition specifications and constraints
-•	Fabricated robot from benchmarked ideas
-•	Co-developed Arduino software
-•	Debugged Arduino, H-boards, peripherals, and wiring
-•	Extensively tested design
-•	Oversaw all project operations
+•	Worked in a team of 4 <br/>
+•	Benchmarked designs complying with competition specifications and constraints <br/>
+•	Fabricated robot from benchmarked ideas <br/>
+•	Co-developed Arduino software <br/>
+•	Debugged Arduino, H-boards, peripherals, and wiring <br/>
+•	Rigorously tested design <br/>
+•	Oversaw all project operations <br/>
 
 
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
