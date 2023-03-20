@@ -1,8 +1,8 @@
 # Autonomous Robot - Advanced
 First Place winner of the 2018 IEEE International Student Robotics Contest.  Origionally designed to competed in Grand Valley's EGR107 Class Robo Sockey game, where it also won first place.
 
-Article found here: https://www.gvsu.edu/gvnow/2018/students-place-first-at-international-engineering-competition-10725.htm
-
+Article found here: https://www.gvsu.edu/gvnext/2018/students-place-first-at-international-engineering-competition-10725.htm
+                    
 <br/>
 
 ## Contributors: 
